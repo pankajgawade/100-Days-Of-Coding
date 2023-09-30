@@ -3,6 +3,7 @@
 <br>
 Starting a 100 days of JAVA + DSA Challange for honing my problem-solving skills, and delving deep into the world of algorithms and data structures.
 <br>
+![100DaysOfCode](https://github.com/pankajgawade/100-Days-Of-Coding/assets/135791801/c8f4b360-8a01-405f-be11-b5eefb633e38)
 <ul>
   <li>Basic of Java Programming</li>
   <li>Fundamentals of Java</li>
@@ -12,7 +13,7 @@ Starting a 100 days of JAVA + DSA Challange for honing my problem-solving skills
   <li>Data Structures and Algorithms</li>
   <li>LeetCode and HackerRank Solutions</li>
 </ul>
-![100DaysOfCode](https://github.com/pankajgawade/100-Days-Of-Coding/assets/135791801/c8f4b360-8a01-405f-be11-b5eefb633e38)
+
 
 
 
