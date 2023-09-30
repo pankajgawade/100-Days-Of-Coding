@@ -19,11 +19,7 @@ Starting a 100 days of JAVA + DSA Challange for honing my problem-solving skills
 ------------------------------------------------------------------------------------------------
 <br>
 # Day 1
-
 <br>
-
-
-------------------------------------------------------------------------------------------------
 Basic Of Java Programming 
 <br>
 Github Source Code :-
