@@ -14,6 +14,8 @@ Starting a 100 days of JAVA + DSA Challange for honing my problem-solving skills
   <li>Data Structures and Algorithms</li>
   <li>LeetCode and HackerRank Solutions</li>
 </ul>
+#Day 1
+
 
 
 
