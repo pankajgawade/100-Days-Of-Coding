@@ -17,12 +17,9 @@ Starting a 100 days of JAVA + DSA Challange for honing my problem-solving skills
 
 ------------------------------------------------------------------------------------------------
 # Day 1
-
-<br>
 <ul>
   <li>Basic of Java Programming</li>
 </ul>
-<br>
 Hackerrank Source :- https://www.hackerrank.com/contests/fs-14-java-dsa-class-challenges/challenges
 <br>
 Linkdin SourceLink :-
