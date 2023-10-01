@@ -21,19 +21,12 @@ Starting a 100 days of JAVA + DSA Challange for honing my problem-solving skills
 <br>
 Basic Of Java Programming 
 <br>
-Github Source Code :-
+Hackerrank Source :- https://www.hackerrank.com/contests/fs-14-java-dsa-class-challenges/challenges
 <br>
-Linkdin SourceLink:
+Linkdin SourceLink:https://www.linkedin.com/feed/update/urn:li:activity:7114157872556445696?utm_source=share&utm_medium=member_desktop
 
 ------------------------------------------------------------------------------------------------
-# Day 2
 
-<br>
-Basic Of Java Programming 
-<br>
-Github Source Code :-
-<br>
-Linkdin SourceLink:
 
 
 
