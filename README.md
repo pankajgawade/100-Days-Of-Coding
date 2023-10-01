@@ -23,7 +23,8 @@ Basic Of Java Programming
 <br>
 Hackerrank Source :- https://www.hackerrank.com/contests/fs-14-java-dsa-class-challenges/challenges
 <br>
-Linkdin :https://www.linkedin.com/feed/update/urn:li:activity:7114157872556445696?utm_source=share&utm_medium=member_desktop
+Linkdin SourceLink:
+<br>https://www.linkedin.com/feed/update/urn:li:activity:7114157872556445696?utm_source=share&utm_medium=member_desktop
 
 ------------------------------------------------------------------------------------------------
 
