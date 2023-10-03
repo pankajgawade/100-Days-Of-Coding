@@ -26,7 +26,7 @@ Linkdin SourceLink :-
 
 ------------------------------------------------------------------------------------------------
 # Day 2
-  <li>Basic of Java Programming (If else)</li>
+  <li>Revising Basic concept </li>
   <br>
 Hackerrank Source :- https://www.hackerrank.com/contests/fs-14-java-dsa-class-challenges/challenges
 <br>
