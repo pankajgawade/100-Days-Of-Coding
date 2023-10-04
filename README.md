@@ -49,7 +49,7 @@ Linkdin SourceLink :-
 Hackerrank Source :- https://www.hackerrank.com/contests/fs-14-java-dsa-class-challenges/challenges
 <br>
 Linkdin SourceLink :- 
-<br>[ https://www.linkedin.com/posts/pankaj-gawade-969094214_100daysofcode-100daysofcode-100daysofcoding-activity-7115014344324595713-kv7Y?utm_source=share&utm_medium=member_desktop](https://www.linkedin.com/posts/pankaj-gawade-969094214_100daysofcode-100daysofcode-100daysofcoding-activity-7115374966786711552-tJtu?utm_source=share&utm_medium=member_desktop)
+<br> https://www.linkedin.com/posts/pankaj-gawade-969094214_100daysofcode-100daysofcode-100daysofcoding-activity-7115374966786711552-tJtu?utm_source=share&utm_medium=member_desktop
 
 ------------------------------------------------------------------------------------------------
 
