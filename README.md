@@ -35,7 +35,7 @@ Linkdin SourceLink :-
 
 ------------------------------------------------------------------------------------------------
 # Day 3
-  <li> If Else Statements </li>
+  <li> If Else Statements - 1 </li>
   <br>
 Hackerrank Source :- https://www.hackerrank.com/contests/fs-14-java-dsa-class-challenges/challenges
 <br>
@@ -43,6 +43,16 @@ Linkdin SourceLink :-
 <br> https://www.linkedin.com/posts/pankaj-gawade-969094214_100daysofcode-100daysofcode-100daysofcoding-activity-7115014344324595713-kv7Y?utm_source=share&utm_medium=member_desktop
 
 ------------------------------------------------------------------------------------------------
+# Day 4
+  <li> If Else Statement - 2 </li>
+  <br>
+Hackerrank Source :- https://www.hackerrank.com/contests/fs-14-java-dsa-class-challenges/challenges
+<br>
+Linkdin SourceLink :- 
+<br> https://www.linkedin.com/posts/pankaj-gawade-969094214_100daysofcode-100daysofcode-100daysofcoding-activity-7115014344324595713-kv7Y?utm_source=share&utm_medium=member_desktop
+
+------------------------------------------------------------------------------------------------
+
 
 
 
