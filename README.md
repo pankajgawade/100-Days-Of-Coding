@@ -53,7 +53,7 @@ Linkdin SourceLink :-
 
 ------------------------------------------------------------------------------------------------
 # Day 5
-  <li> Switch Case  </li>
+  <li> Switch Case - 1 </li>
   <br>
 Hackerrank Source :- https://www.hackerrank.com/contests/fs-14-java-dsa-class-challenges/challenges
 <br>
@@ -61,6 +61,16 @@ Linkdin SourceLink :-
 <br> https://www.linkedin.com/posts/pankaj-gawade-969094214_100daysofcode-100daysofcode-100daysofcoding-activity-7115704933697384448-PMpj?utm_source=share&utm_medium=member_desktop
 
 ------------------------------------------------------------------------------------------------
+# Day 6
+  <li> Switch Case - 2  </li>
+  <br>
+Hackerrank Source :- https://www.hackerrank.com/contests/fs-14-java-dsa-class-challenges/challenges
+<br>
+Linkdin SourceLink :- 
+<br> https://www.linkedin.com/posts/pankaj-gawade-969094214_100daysofcode-100daysofcode-100daysofcoding-activity-7115704933697384448-PMpj?utm_source=share&utm_medium=member_desktop
+
+------------------------------------------------------------------------------------------------
+
 
 
 
