@@ -70,6 +70,15 @@ Linkdin SourceLink :-
 <br> https://www.linkedin.com/posts/pankaj-gawade-969094214_100daysofcode-100daysofcode-100daysofcoding-activity-7116106268477407232-ZAEI?utm_source=share&utm_medium=member_desktop
 
 ------------------------------------------------------------------------------------------------
+# Day 7
+  <li> Medium Level Questions </li>
+  <br>
+Hackerrank Source :- https://www.hackerrank.com/contests/fs-14-java-dsa-class-challenges/challenges
+<br>
+Linkdin SourceLink :- 
+<br> https://www.linkedin.com/posts/pankaj-gawade-969094214_100daysofcode-100daysofcode-100daysofcoding-activity-7116106268477407232-ZAEI?utm_source=share&utm_medium=member_desktop
+
+------------------------------------------------------------------------------------------------
 
 
 
