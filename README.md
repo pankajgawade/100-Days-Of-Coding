@@ -79,6 +79,15 @@ Linkdin SourceLink :-
 <br> https://www.linkedin.com/posts/pankaj-gawade-969094214_100daysofcode-100daysofcode-100daysofcoding-activity-7116469474735616000-dobL?utm_source=share&utm_medium=member_desktop
 
 ------------------------------------------------------------------------------------------------
+# Day 8
+  <li> Loop Statements </li>
+  <br>
+Hackerrank Source :- https://www.hackerrank.com/contests/fs-14-java-dsa-class-challenges/challenges
+<br>
+Linkdin SourceLink :- 
+<br> https://www.linkedin.com/posts/pankaj-gawade-969094214_100daysofcode-100daysofcode-100daysofcoding-activity-7116751039394947073-yQmY?utm_source=share&utm_medium=member_desktop
+
+------------------------------------------------------------------------------------------------
 
 
 
