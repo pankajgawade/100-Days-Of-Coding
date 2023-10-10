@@ -88,6 +88,24 @@ Linkdin SourceLink :-
 <br> https://www.linkedin.com/posts/pankaj-gawade-969094214_100daysofcode-100daysofcode-100daysofcoding-activity-7116751039394947073-yQmY?utm_source=share&utm_medium=member_desktop
 
 ------------------------------------------------------------------------------------------------
+# Day 9
+  <li> Array Concept - 1 </li>
+  <br>
+Hackerrank Source :- https://www.hackerrank.com/contests/fs-14-java-dsa-class-challenges/challenges
+<br>
+Linkdin SourceLink :- 
+<br> https://www.linkedin.com/posts/pankaj-gawade-969094214_100daysofcode-100daysofcode-100daysofcoding-activity-7116751039394947073-yQmY?utm_source=share&utm_medium=member_desktop
+
+------------------------------------------------------------------------------------------------
+# Day 10
+  <li> Array concept - 2 </li>
+  <br>
+Hackerrank Source :- https://www.hackerrank.com/contests/fs-14-java-dsa-class-challenges/challenges
+<br>
+Linkdin SourceLink :- 
+<br> https://www.linkedin.com/posts/pankaj-gawade-969094214_100daysofcode-100daysofcode-100daysofcoding-activity-7116751039394947073-yQmY?utm_source=share&utm_medium=member_desktop
+
+------------------------------------------------------------------------------------------------
 
 
 
