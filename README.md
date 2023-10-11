@@ -106,6 +106,17 @@ Linkdin SourceLink :-
 <br>https://www.linkedin.com/posts/pankaj-gawade-969094214_100daysofcode-100daysofcode-100daysofcoding-activity-7117566016397742080-XdWU?utm_source=share&utm_medium=member_desktop
 
 ------------------------------------------------------------------------------------------------
+# Day 11
+  <li> Functions </li>
+  <br>
+Que 1 : - 
+Que 2 : - 
+<br>
+Linkdin SourceLink :- 
+<br>https://www.linkedin.com/posts/pankaj-gawade-969094214_100daysofcode-100daysofcode-100daysofcoding-activity-7117566016397742080-XdWU?utm_source=share&utm_medium=member_desktop
+
+------------------------------------------------------------------------------------------------
+
 
 
 
