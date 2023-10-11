@@ -109,11 +109,11 @@ Linkdin SourceLink :-
 # Day 11
   <li> Functions </li>
   <br>
-Que 1 : - 
-Que 2 : - 
+Que 1 : -  https://github.com/pankajgawade/100-Days-Of-Coding/blob/cf0cdd0c9435169ea4275e9cdb4628cfc43bd702/Function_2.java
+Que 2 : - https://github.com/pankajgawade/100-Days-Of-Coding/blob/cf0cdd0c9435169ea4275e9cdb4628cfc43bd702/Armstrong_Num.java
 <br>
 Linkdin SourceLink :- 
-<br>https://www.linkedin.com/posts/pankaj-gawade-969094214_100daysofcode-100daysofcode-100daysofcoding-activity-7117566016397742080-XdWU?utm_source=share&utm_medium=member_desktop
+<br>https:
 
 ------------------------------------------------------------------------------------------------
 
