@@ -119,10 +119,10 @@ Linkdin SourceLink :-
 # Day 12
   <li> Linear Search Algorithm </li>
   <br>
-Github Code - 
+Linear Search Code - https://github.com/pankajgawade/100-Days-Of-Coding/blob/239ec2ba86ed5e84c511c887e3feb7bc14428113/LinearSearch.java
 <br>
 Linkdin SourceLink :- 
-<br>https:
+<br>
 
 ------------------------------------------------------------------------------------------------
 
