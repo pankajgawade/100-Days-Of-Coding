@@ -122,7 +122,7 @@ Linkdin SourceLink :- https://www.linkedin.com/posts/pankaj-gawade-969094214_git
   <br>
 Linear Search Code - https://github.com/pankajgawade/100-Days-Of-Coding/blob/239ec2ba86ed5e84c511c887e3feb7bc14428113/LinearSearch.java
 <br>
-Linkdin SourceLink :- 
+Linkdin SourceLink :- https://www.linkedin.com/posts/pankaj-gawade-969094214_100daysofcode-100daysofcode-100daysofcoding-activity-7118280481938272257-uOlU?utm_source=share&utm_medium=member_desktop
 <br>
 
 ------------------------------------------------------------------------------------------------
@@ -131,7 +131,7 @@ Linkdin SourceLink :-
   <br>
 Insertion Sort Code - https://github.com/pankajgawade/100-Days-Of-Coding/blob/50f671d6f5b3c4ad184d90d7c480b77883766e0a/Insertion_Sort.java
 <br>
-Linkdin SourceLink :- 
+Linkdin SourceLink :- https://www.linkedin.com/posts/pankaj-gawade-969094214_github-pankajgawade100-days-of-coding-activity-7118656947138027521--Chz?utm_source=share&utm_medium=member_desktop
 <br>
 
 ------------------------------------------------------------------------------------------------
