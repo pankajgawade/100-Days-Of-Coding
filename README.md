@@ -138,9 +138,9 @@ Linkdin SourceLink :- https://www.linkedin.com/posts/pankaj-gawade-969094214_git
 # Day 14
   <li> Binary Search Algorithm </li>
   <br>
-Binary Search Algorithm : 
+Binary Search Algorithm : https://github.com/pankajgawade/100-Days-Of-Coding/blob/e03c6c1fe2dc420f9017139a964b4b8f870e075a/Binary_Search.java
 <br>
-Linkdin SourceLink :- https://www.linkedin.com/posts/pankaj-gawade-969094214_github-pankajgawade100-days-of-coding-activity-7118656947138027521--Chz?utm_source=share&utm_medium=member_desktop
+Linkdin SourceLink :- https://www.linkedin.com/posts/pankaj-gawade-969094214_100daysofcode-100daysofcode-100daysofcoding-activity-7119014843302522880-AVSn?utm_source=share&utm_medium=member_desktop
 <br>
 
 ------------------------------------------------------------------------------------------------
