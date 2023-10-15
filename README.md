@@ -144,12 +144,12 @@ Linkdin SourceLink :- https://www.linkedin.com/posts/pankaj-gawade-969094214_100
 <br>
 
 ------------------------------------------------------------------------------------------------
-# Day 14
-  <li> Binary Search Algorithm </li>
+# Day 15
+  <li> Binary Search Algorithm Question </li>
   <br>
   Question 1 : - https://github.com/pankajgawade/100-Days-Of-Coding/blob/8189b934860e3418a0507c08f82a51fb695bd23a/BS_Que1.java
 <br>
-Linkdin SourceLink :- https://www.linkedin.com/posts/pankaj-gawade-969094214_100daysofcode-100daysofcode-100daysofcoding-activity-7119014843302522880-AVSn?utm_source=share&utm_medium=member_desktop
+Linkdin SourceLink :-https://www.linkedin.com/posts/pankaj-gawade-969094214_github-pankajgawade100-days-of-coding-activity-7119361741611790336-Bi-Z?utm_source=share&utm_medium=member_desktop
 <br>
 
 ------------------------------------------------------------------------------------------------
