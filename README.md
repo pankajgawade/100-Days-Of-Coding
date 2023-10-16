@@ -156,9 +156,9 @@ Linkdin SourceLink :-https://www.linkedin.com/posts/pankaj-gawade-969094214_gith
 # Day 16
   <li> Binary Search Algorithm Question </li>
   <br>
-  Question 1 : - 
+  Question 1 : - https://github.com/pankajgawade/100-Days-Of-Coding/blob/adcf193d43b4e89b58577f5f8f41fb94db63a97b/Celling_Num.java
 <br>
-Linkdin SourceLink :-https://www.linkedin.com/posts/pankaj-gawade-969094214_github-pankajgawade100-days-of-coding-activity-7119361741611790336-Bi-Z?utm_source=share&utm_medium=member_desktop
+Linkdin SourceLink :-https://www.linkedin.com/posts/pankaj-gawade-969094214_github-pankajgawade100-days-of-coding-activity-7119695844097822720-Zmdt?utm_source=share&utm_medium=member_desktop
 <br>
 
 ------------------------------------------------------------------------------------------------
