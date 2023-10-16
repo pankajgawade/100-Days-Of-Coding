@@ -153,6 +153,16 @@ Linkdin SourceLink :-https://www.linkedin.com/posts/pankaj-gawade-969094214_gith
 <br>
 
 ------------------------------------------------------------------------------------------------
+# Day 16
+  <li> Binary Search Algorithm Question </li>
+  <br>
+  Question 1 : - 
+<br>
+Linkdin SourceLink :-https://www.linkedin.com/posts/pankaj-gawade-969094214_github-pankajgawade100-days-of-coding-activity-7119361741611790336-Bi-Z?utm_source=share&utm_medium=member_desktop
+<br>
+
+------------------------------------------------------------------------------------------------
+
 
 
 
