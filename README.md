@@ -162,12 +162,21 @@ Linkdin SourceLink :-https://www.linkedin.com/posts/pankaj-gawade-969094214_gith
 <br>
 
 ------------------------------------------------------------------------------------------------
-# Day 16
+# Day 17
   <li> Binary Search Algorithm Question </li>
   <br>
   Question 1 : - https://github.com/pankajgawade/100-Days-Of-Coding/blob/41e14d2c27ad7e756351717f3d0466df2b77ca6c/Main.java
 <br>
 Linkdin SourceLink :https://www.linkedin.com/posts/pankaj-gawade-969094214_github-pankajgawade100-days-of-coding-activity-7120082792301916161-bm9N?utm_source=share&utm_medium=member_desktop
+<br>
+
+------------------------------------------------------------------------------------------------
+# Day 18
+  <li> Binary Search Algorithm Question </li>
+  <br>
+  Question 1 : -https://github.com/pankajgawade/100-Days-Of-Coding/blob/824cd45dff90c0c42cd815d2f14e046d2a148af7/Merge.java
+<br>
+Linkdin SourceLink :https://www.linkedin.com/posts/pankaj-gawade-969094214_github-pankajgawade100-days-of-coding-activity-7120421986190692352-WQln?utm_source=share&utm_medium=member_desktop
 <br>
 
 ------------------------------------------------------------------------------------------------
