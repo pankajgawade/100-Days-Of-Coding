@@ -198,7 +198,24 @@ Linkdin SourceLink :-
 <br>https:https://www.linkedin.com/posts/pankaj-gawade-969094214_github-pankajgawade100-days-of-coding-activity-7120782685651820544-cVFZ?utm_source=share&utm_medium=member_desktop
 
 ------------------------------------------------------------------------------------------------
+# Day 21
+  <li>Solving Medium level Questions </li>
+  <br>
+Hackerrank Source :- https://www.hackerrank.com/contests/fs-14-java-dsa-class-challenges/challenges
+<br>
+Linkdin SourceLink :- 
+<br>https:https://www.linkedin.com/posts/pankaj-gawade-969094214_github-pankajgawade100-days-of-coding-activity-7120782685651820544-cVFZ?utm_source=share&utm_medium=member_desktop
 
+------------------------------------------------------------------------------------------------
+# Day 22
+  <li>Time and Space Complexity </li>
+  <br>
+Hackerrank Source :- https://www.hackerrank.com/contests/fs-14-java-dsa-class-challenges/challenges
+<br>
+Linkdin SourceLink :- 
+<br>https:https://www.linkedin.com/posts/pankaj-gawade-969094214_github-pankajgawade100-days-of-coding-activity-7120782685651820544-cVFZ?utm_source=share&utm_medium=member_desktop
+
+------------------------------------------------------------------------------------------------
 
 
 
