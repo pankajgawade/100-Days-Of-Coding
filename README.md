@@ -195,7 +195,7 @@ Linkdin SourceLink :-
 Hackerrank Source :- https://www.hackerrank.com/contests/fs-14-java-dsa-class-challenges/challenges
 <br>
 Linkdin SourceLink :- 
-<br>https:https://www.linkedin.com/posts/pankaj-gawade-969094214_github-pankajgawade100-days-of-coding-activity-7120782685651820544-cVFZ?utm_source=share&utm_medium=member_desktop
+<br>https:https://www.linkedin.com/posts/pankaj-gawade-969094214_solve-challenges-activity-7121571743214804992-W_Sx?utm_source=share&utm_medium=member_desktop
 
 ------------------------------------------------------------------------------------------------
 # Day 21
@@ -204,7 +204,7 @@ Linkdin SourceLink :-
 Hackerrank Source :- https://www.hackerrank.com/contests/fs-14-java-dsa-class-challenges/challenges
 <br>
 Linkdin SourceLink :- 
-<br>https:https://www.linkedin.com/posts/pankaj-gawade-969094214_github-pankajgawade100-days-of-coding-activity-7120782685651820544-cVFZ?utm_source=share&utm_medium=member_desktop
+<br>https:https://www.linkedin.com/posts/pankaj-gawade-969094214_solve-challenges-activity-7121571743214804992-W_Sx?utm_source=share&utm_medium=member_desktop
 
 ------------------------------------------------------------------------------------------------
 # Day 22
@@ -213,16 +213,16 @@ Linkdin SourceLink :-
 Hackerrank Source :- https://www.hackerrank.com/contests/fs-14-java-dsa-class-challenges/challenges
 <br>
 Linkdin SourceLink :- 
-<br>https:https://www.linkedin.com/posts/pankaj-gawade-969094214_github-pankajgawade100-days-of-coding-activity-7120782685651820544-cVFZ?utm_source=share&utm_medium=member_desktop
+<br>https:https://www.linkedin.com/posts/pankaj-gawade-969094214_100daysofcode-100daysofcode-100daysofcoding-activity-7121903013924880384-1qM0?utm_source=share&utm_medium=member_desktop
 
 ------------------------------------------------------------------------------------------------
 # Day 23
   <li>Linked List </li>
   <br>
-Source code : 
+Source code : https://github.com/pankajgawade/100-Days-Of-Coding/blob/88b974bf0baf4f7f73a79bbdfbac3c3f1d704480/InsertEnd.java
 <br>
 Linkdin SourceLink :- 
-<br>https:https://www.linkedin.com/posts/pankaj-gawade-969094214_github-pankajgawade100-days-of-coding-activity-7120782685651820544-cVFZ?utm_source=share&utm_medium=member_desktop
+<br>https:https://www.linkedin.com/posts/pankaj-gawade-969094214_github-pankajgawade100-days-of-coding-activity-7122255377433268224-GW6M?utm_source=share&utm_medium=member_desktop
 
 ------------------------------------------------------------------------------------------------
 
