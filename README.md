@@ -225,7 +225,15 @@ Linkdin SourceLink :-
 <br>https:https://www.linkedin.com/posts/pankaj-gawade-969094214_github-pankajgawade100-days-of-coding-activity-7122255377433268224-GW6M?utm_source=share&utm_medium=member_desktop
 
 ------------------------------------------------------------------------------------------------
+# Day 24
+  <li>Linked List </li>
+  <br>
+Source code : https://github.com/pankajgawade/100-Days-Of-Coding/blob/5af4edabd789413da96587d135600fa7bf2aa235/LL.java
+<br>
+Linkdin SourceLink :- 
+<br>https://www.linkedin.com/posts/pankaj-gawade-969094214_github-pankajgawade100-days-of-coding-activity-7122630021801783296-4rbY?utm_source=share&utm_medium=member_desktop
 
+------------------------------------------------------------------------------------------------
 
 
 
