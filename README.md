@@ -252,6 +252,15 @@ Linkdin SourceLink :-
 <br>https://www.linkedin.com/posts/pankaj-gawade-969094214_100daysofcode-100dayofcode-java-activity-7123294241677582336-PAm0?utm_source=share&utm_medium=member_desktop
 
 ------------------------------------------------------------------------------------------------
+# Day 27
+  <li> Leetcode Problem </li>
+  <br>
+Leedcode : https://leetcode.com/pankajgawade/
+<br>
+Linkdin SourceLink :- 
+<br> https://www.linkedin.com/feed/update/urn:li:activity:7123719822307209216?utm_source=share&utm_medium=member_desktop
+ 
+------------------------------------------------------------------------------------------------
 
 
 
