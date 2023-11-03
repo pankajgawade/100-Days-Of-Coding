@@ -315,6 +315,15 @@ Linkdin SourceLink :-
 <br> https://www.linkedin.com/posts/pankaj-gawade-969094214_100daysofcode-100daysofcode-100daysofcoding-activity-7125886206675927040-BQMj?utm_source=share&utm_medium=member_desktop
  
 ------------------------------------------------------------------------------------------------
+# Day 34
+  <li> Leetcode Problem </li>
+  <br>
+Leedcode : https://leetcode.com/pankajgawade/
+<br>
+Linkdin SourceLink :- 
+<br> https://www.linkedin.com/posts/pankaj-gawade-969094214_100daysofcode-100daysofcode-100daysofcoding-activity-7126243163186335744-1d4z?utm_source=share&utm_medium=member_desktop
+ 
+------------------------------------------------------------------------------------------------
 
 
 
