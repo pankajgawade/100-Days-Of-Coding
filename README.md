@@ -1,10 +1,10 @@
-# 100-Days-Of-Coding
+# 50-Days-Of-Coding
 ------------------------------------------------------------------------------------------------
-Starting a 100 days of JAVA + DSA Challange for honing my problem-solving skills, and delving deep into the world of algorithms and data structures.
+Starting a 50 days of JAVA + DSA Challange for honing my problem-solving skills, and delving deep into the world of algorithms and data structures.
 <br>
 
 ------------------------------------------------------------------------------------------------
-![100DaysOfCode](https://github.com/pankajgawade/100-Days-Of-Coding/assets/135791801/c8f4b360-8a01-405f-be11-b5eefb633e38)
+![50DaysOfCode](https://github.com/pankajgawade/100-Days-Of-Coding/assets/135791801/c8f4b360-8a01-405f-be11-b5eefb633e38)
 <ul>
   <li>Basic of Java Programming</li>
   <li>Fundamentals of Java</li>
